@@ -3,7 +3,7 @@
 
 #include <memory>
 
-// Visual Studio 2022
+// Visual Studio 2022, Windows 10
 
 namespace task {
     class Node_base {
