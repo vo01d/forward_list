@@ -3,6 +3,8 @@
 
 #include <memory>
 
+// Visual Studio 2022
+
 namespace task {
     class Node_base {
     public:
